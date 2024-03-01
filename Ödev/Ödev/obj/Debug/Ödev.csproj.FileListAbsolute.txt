@@ -1,0 +1,7 @@
+C:\Users\alper\source\repos\Ödev\Ödev\bin\Debug\Ödev.exe.config
+C:\Users\alper\source\repos\Ödev\Ödev\bin\Debug\Ödev.exe
+C:\Users\alper\source\repos\Ödev\Ödev\bin\Debug\Ödev.pdb
+C:\Users\alper\source\repos\Ödev\Ödev\obj\Debug\Ödev.csproj.AssemblyReference.cache
+C:\Users\alper\source\repos\Ödev\Ödev\obj\Debug\Ödev.csproj.CoreCompileInputs.cache
+C:\Users\alper\source\repos\Ödev\Ödev\obj\Debug\Ödev.exe
+C:\Users\alper\source\repos\Ödev\Ödev\obj\Debug\Ödev.pdb
